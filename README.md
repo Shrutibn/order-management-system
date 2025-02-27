@@ -10,7 +10,7 @@
 ### **Setup & Installation**
 
 #### 1.Clone the Repository
-  git clone <GITHUB_REPO_LINK>
+  git clone https://github.com/Shrutibn/order-management-system.git
   cd order-management-system
 
 #### 2.Create & Activate Virtual Environment
@@ -112,7 +112,7 @@ Alternative: Flask (slower but simpler for smaller applications).
 
 ### GitHub Repository
 The full project code is available at:
-GitHub Repo Link
+GitHub Repo Link : https://github.com/Shrutibn/order-management-system.git
 
 ### Running Tests
 Run unit tests using:
